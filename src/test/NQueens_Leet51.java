@@ -11,7 +11,7 @@ public class NQueens_Leet51 {
 
     public static void main(String[] args){
 
-        List<List<String>> result = solveNQueens(4);
+        List<List<String>> result = solveNQueens(15);
         for(List<String> l : result){
             for (String s : l){
                 System.out.println(s);
