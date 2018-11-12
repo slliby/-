@@ -7,7 +7,6 @@ import structure.ListNode;
 public class RemoveElements_Leet203 {
 
     public static void main(String[] args){
-
     }
 
     public static ListNode removeElement(ListNode head, int val){
