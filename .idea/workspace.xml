@@ -6,9 +6,8 @@
       <change afterPath="$PROJECT_DIR$/src/niuke/FindSum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/niuke/MinMoney.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/niuke/StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ReverseList_Leet92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/MinmunTotal_Leet120.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/Scores_Leet856.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,10 +70,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/ReverseList_Leet92.java">
+        <entry file="file://$PROJECT_DIR$/src/test/MinmunTotal_Leet120.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="662">
+              <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/BullsAndCows.java" />
         <option value="$PROJECT_DIR$/src/test/ClassifyColor_Leet75.java" />
         <option value="$PROJECT_DIR$/src/test/CoinChange_Leet322.java" />
         <option value="$PROJECT_DIR$/src/test/ContainsDuplicateElement.java" />
@@ -150,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/niuke/CoinNum.java" />
         <option value="$PROJECT_DIR$/src/niuke/MinMoney.java" />
         <option value="$PROJECT_DIR$/src/test/ReverseList_Leet92.java" />
+        <option value="$PROJECT_DIR$/src/test/MinmunTotal_Leet120.java" />
       </list>
     </option>
   </component>
@@ -200,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554737400511" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554775158686" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -223,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseList_Leet92">
+  <component name="RunManager" selected="Application.MinmunTotal_Leet120">
     <configuration name="CoinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="niuke.CoinNum" />
       <module name="LeetCoding" />
@@ -252,8 +254,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseList_Leet92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ReverseList_Leet92" />
+    <configuration name="MinmunTotal_Leet120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MinmunTotal_Leet120" />
       <module name="LeetCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -266,8 +268,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scores_Leet856" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Scores_Leet856" />
+    <configuration name="ReverseList_Leet92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ReverseList_Leet92" />
       <module name="LeetCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -315,19 +317,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Scores_Leet856" />
       <item itemvalue="Application.FindSum" />
       <item itemvalue="Application.StringLength" />
       <item itemvalue="Application.CoinNum" />
       <item itemvalue="Application.ReverseList_Leet92" />
+      <item itemvalue="Application.MinmunTotal_Leet120" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinmunTotal_Leet120" />
         <item itemvalue="Application.ReverseList_Leet92" />
         <item itemvalue="Application.CoinNum" />
         <item itemvalue="Application.StringLength" />
         <item itemvalue="Application.FindSum" />
-        <item itemvalue="Application.Scores_Leet856" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +354,7 @@
       <workItem from="1554092505601" duration="1022000" />
       <workItem from="1554459965914" duration="94000" />
       <workItem from="1554461588403" duration="5012000" />
-      <workItem from="1554729770852" duration="954000" />
+      <workItem from="1554729770852" duration="2474000" />
     </task>
     <task id="LOCAL-00001" summary="重新创建了仓库并提交">
       <created>1538212606920</created>
@@ -368,11 +370,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545875735008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Leet77_mid，反转链表2">
+      <created>1554737638209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554737638209</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22875000" />
+    <option name="totallyTimeSpent" value="24395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -423,7 +432,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="重新创建了仓库并提交" />
     <MESSAGE value="Leet77_mid" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet77_mid" />
+    <MESSAGE value="Leet77_mid，反转链表2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet77_mid，反转链表2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -450,13 +460,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/BuildBinaryTreeByPreAndInOrder_Leet106.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/BullsAndCows_Leet299.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -814,6 +817,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ReverseList_Leet92.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/MinMoney.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
@@ -824,10 +834,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ReverseList_Leet92.java">
+    <entry file="file://$PROJECT_DIR$/src/test/MinmunTotal_Leet120.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        <state relative-caret-position="662">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
