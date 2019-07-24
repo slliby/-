@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5bd0433-4104-41d0-a565-d0021f3f52f7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a5bd0433-4104-41d0-a565-d0021f3f52f7" name="Default" comment="Leet77_mid，反转链表2">
+      <change afterPath="$PROJECT_DIR$/src/jvmLearning/JvmStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jvmLearning/Monitoringtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/CoinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/FindSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/MinMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/CheckInclusion_Leet567.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/LongestConsecutive_leet128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Scores_Leet856.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/SearchInMatrix_Leet74.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,43 +26,34 @@
       <FILTER>test.*</FILTER>
     </SUITE>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1275135091">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="378" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="378" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/IsPalindroom_Leet9.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/MinmunTotal_Leet120.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="375">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/SearchInMatrix_Leet74.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/KLargestNumber_Leet215.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="123" column="5" selection-start-line="84" selection-start-column="4" selection-end-line="123" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -68,23 +67,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BuildBinaryTreeByInAndPostOrder.java" />
-        <option value="$PROJECT_DIR$/src/structure/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/test/BulidBinaryTreeByInAndPostOrder.java" />
-        <option value="$PROJECT_DIR$/src/test/BuildBinaryTreeByPreAndInOrder.java" />
-        <option value="$PROJECT_DIR$/src/test/BullsAndCows.java" />
-        <option value="$PROJECT_DIR$/src/test/ClassifyColor_Leet75.java" />
-        <option value="$PROJECT_DIR$/src/test/CoinChange_Leet322.java" />
-        <option value="$PROJECT_DIR$/src/test/ContainsDuplicateElement.java" />
-        <option value="$PROJECT_DIR$/src/test/CrossWordsGrouping_Leet49.java" />
-        <option value="$PROJECT_DIR$/src/test/FindKthSmallInBST_Leet230.java" />
-        <option value="$PROJECT_DIR$/src/test/FullArranged_Leet46.java" />
         <option value="$PROJECT_DIR$/src/test/FullArranged2_Leet42.java" />
         <option value="$PROJECT_DIR$/src/test/GasStation_Leet134.java" />
         <option value="$PROJECT_DIR$/src/test/GenerateBrackets_Leet22.java" />
@@ -121,20 +114,35 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/ContainsDuplicateElement_Leet219.java" />
         <option value="$PROJECT_DIR$/src/test/IsPalindroom_Leet9.java" />
+        <option value="$PROJECT_DIR$/src/test/Combine_Leet77.java" />
+        <option value="$PROJECT_DIR$/src/test/ThirdMaxNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/Scores_Leet856.java" />
+        <option value="$PROJECT_DIR$/src/niuke/FindSum.java" />
+        <option value="$PROJECT_DIR$/src/niuke/StringLength.java" />
+        <option value="$PROJECT_DIR$/src/niuke/CoinNum.java" />
+        <option value="$PROJECT_DIR$/src/niuke/MinMoney.java" />
+        <option value="$PROJECT_DIR$/src/test/ReverseList_Leet92.java" />
+        <option value="$PROJECT_DIR$/src/test/MinmunTotal_Leet120.java" />
+        <option value="$PROJECT_DIR$/src/test/CheckInclusion_Leet567.java" />
+        <option value="$PROJECT_DIR$/src/test/LongestConsecutive_leet128.java" />
+        <option value="$PROJECT_DIR$/src/jvmLearning/OOMObject.java" />
+        <option value="$PROJECT_DIR$/src/jvmLearning/Monitoringtest.java" />
+        <option value="$PROJECT_DIR$/src/jvmLearning/JvmStackTest.java" />
+        <option value="$PROJECT_DIR$/src/test/SearchInMatrix_Leet74.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="9" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1464" />
-    <option name="height" value="815" />
+    <option name="width" value="1280" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,8 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,15 +172,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555379432170" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -193,9 +202,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsPalindroom_Leet9">
-    <configuration name="BuildBinaryTreeByPreAndInOrder_Leet106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.BuildBinaryTreeByPreAndInOrder_Leet106" />
+  <component name="RunManager" selected="Application.JvmStackTest">
+    <configuration name="CheckInclusion_Leet567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.CheckInclusion_Leet567" />
       <module name="LeetCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -208,8 +217,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassifyColor_Leet75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ClassifyColor_Leet75" />
+    <configuration name="JvmStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvmLearning.JvmStackTest" />
+      <module name="LeetCoding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvmLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestConsecutive_leet128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.LongestConsecutive_leet128" />
       <module name="LeetCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -222,8 +245,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicateElement_Leet219" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ContainsDuplicateElement_Leet219" />
+    <configuration name="MinmunTotal_Leet120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MinmunTotal_Leet120" />
       <module name="LeetCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -236,27 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FullArranged_Leet46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.FullArranged_Leet46" />
+    <configuration name="Monitoringtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvmLearning.Monitoringtest" />
       <module name="LeetCoding" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsPalindroom_Leet9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.IsPalindroom_Leet9" />
-      <module name="LeetCoding" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="jvmLearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,7 +284,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -285,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BuildBinaryTreeByPreAndInOrder_Leet106" />
-      <item itemvalue="Application.ClassifyColor_Leet75" />
-      <item itemvalue="Application.ContainsDuplicateElement_Leet219" />
-      <item itemvalue="Application.FullArranged_Leet46" />
-      <item itemvalue="Application.IsPalindroom_Leet9" />
+      <item itemvalue="Application.MinmunTotal_Leet120" />
+      <item itemvalue="Application.CheckInclusion_Leet567" />
+      <item itemvalue="Application.LongestConsecutive_leet128" />
+      <item itemvalue="Application.Monitoringtest" />
+      <item itemvalue="Application.JvmStackTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsPalindroom_Leet9" />
-        <item itemvalue="Application.FullArranged_Leet46" />
-        <item itemvalue="Application.ContainsDuplicateElement_Leet219" />
-        <item itemvalue="Application.ClassifyColor_Leet75" />
-        <item itemvalue="Application.BuildBinaryTreeByPreAndInOrder_Leet106" />
+        <item itemvalue="Application.JvmStackTest" />
+        <item itemvalue="Application.Monitoringtest" />
+        <item itemvalue="Application.LongestConsecutive_leet128" />
+        <item itemvalue="Application.CheckInclusion_Leet567" />
+        <item itemvalue="Application.MinmunTotal_Leet120" />
       </list>
     </recent_temporary>
   </component>
@@ -314,6 +322,20 @@
       <workItem from="1538100523133" duration="6513000" />
       <workItem from="1538211004630" duration="1790000" />
       <workItem from="1538926740746" duration="852000" />
+      <workItem from="1545833622321" duration="1525000" />
+      <workItem from="1549674156034" duration="187000" />
+      <workItem from="1549936036867" duration="827000" />
+      <workItem from="1553476345873" duration="1401000" />
+      <workItem from="1554038609060" duration="2698000" />
+      <workItem from="1554092505601" duration="1022000" />
+      <workItem from="1554459965914" duration="94000" />
+      <workItem from="1554461588403" duration="5012000" />
+      <workItem from="1554729770852" duration="2621000" />
+      <workItem from="1554860195528" duration="1255000" />
+      <workItem from="1554947769286" duration="161000" />
+      <workItem from="1555065590953" duration="3205000" />
+      <workItem from="1555160712097" duration="4417000" />
+      <workItem from="1555378663843" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="重新创建了仓库并提交">
       <created>1538212606920</created>
@@ -322,26 +344,49 @@
       <option name="project" value="LOCAL" />
       <updated>1538212606920</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Leet77_mid">
+      <created>1545875735008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545875735008</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Leet77_mid，反转链表2">
+      <created>1554737638209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554737638209</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Leet120_mid，动态规划">
+      <created>1554775203728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554775203729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9155000" />
+    <option name="totallyTimeSpent" value="34320000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="815" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26108727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21324718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32780084" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970502" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32465753" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39726028" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -350,7 +395,10 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="DB Execution Console" order="13" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="14" />
+      <window_info anchor="bottom" id="Tail" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,69 +408,47 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="right" id="SciView" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="重新创建了仓库并提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="重新创建了仓库并提交" />
+    <MESSAGE value="Leet77_mid" />
+    <MESSAGE value="Leet77_mid，反转链表2" />
+    <MESSAGE value="Leet120_mid，动态规划" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet120_mid，动态规划" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Combine_Leet77.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/CoinNum.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/CoinNum.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BuildBinaryTreeByInAndPostOrder.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/BulidBinaryTreeByInAndPostOrder_Leet105.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-377">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/BuildBinaryTreeByPreAndInOrder_Leet106.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/BullsAndCows_Leet299.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CoinChange_Leet322.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CrossWordsGrouping_Leet49.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/FullArranged2_Leet42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/GasStation_Leet134.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/GenerateBrackets_Leet22.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -462,13 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-425">
           <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/KLargestNumber_Leet215.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -690,10 +709,133 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ThirdMaxNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Combine_Leet77.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/IsPalindroom_Leet9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/FindSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ReverseList_Leet92.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/CheckInclusion_Leet567.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/StringLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Scores_Leet856.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/CoinNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/MinMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmLearning/Monitoringtest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/LongestConsecutive_leet128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/KLargestNumber_Leet215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="5" selection-start-line="84" selection-start-column="4" selection-end-line="123" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmLearning/JvmStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/MinmunTotal_Leet120.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/SearchInMatrix_Leet74.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
